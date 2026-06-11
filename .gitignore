@@ -1,8 +1,26 @@
+# Python
 venv/
 __pycache__/
 .ipynb_checkpoints/
 
+# Data files
+01_customer_analytics/data/raw/
+01_customer_analytics/data/silver/
+01_customer_analytics/data/gold/
+
+# DuckDB
+*.duckdb
+*.wal
+
+# Logs
 *.log
 
-.DS_Store
-Thumbs.db
+# Raw data
+data/raw/
+
+# Opcional: não versionar artefatos gerados
+data/silver/
+data/gold/
+
+# Power BI
+*.pbix
