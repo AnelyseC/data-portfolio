@@ -1,6 +1,6 @@
 # Data Portfolio
 
-Portfolio de projetos de Analytics, Analytics Engineering e Business Intelligence.
+Data Portfolio: Analytics, Analytics Engineering e Business Intelligence.
 
 ## Projetos
 
