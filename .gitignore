@@ -4,9 +4,14 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files
-01_customer_analytics/data/raw/
-01_customer_analytics/data/silver/
-01_customer_analytics/data/gold/
+01_customer_analytics/data/raw/*
+01_customer_analytics/data/silver/*
+01_customer_analytics/data/gold/*
+
+# Keep folder structure
+!01_customer_analytics/data/raw/.gitkeep
+!01_customer_analytics/data/silver/.gitkeep
+!01_customer_analytics/data/gold/.gitkeep
 
 # DuckDB
 *.duckdb
@@ -14,13 +19,6 @@ __pycache__/
 
 # Logs
 *.log
-
-# Raw data
-data/raw/
-
-# Opcional: não versionar artefatos gerados
-data/silver/
-data/gold/
 
 # Power BI
 *.pbix
