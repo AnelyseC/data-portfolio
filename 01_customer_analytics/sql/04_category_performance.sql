@@ -37,4 +37,4 @@ WHERE items.product_category_name_english IS NOT NULL
 GROUP BY
     items.product_category_name_english
 ORDER BY
-    total_revenue DESC;
+    total_revenue DESC
