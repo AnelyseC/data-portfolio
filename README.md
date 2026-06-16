@@ -11,7 +11,7 @@ Data Portfolio: Analytics, Analytics Engineering e Business Intelligence.
 - Power BI
 - dbt
 
-### 02 - A/B Testing
+### 02 - A/B Testing (WIP)
 - Statistical Testing
 - Experimentation
 - Conversion Analysis
